@@ -7,4 +7,3 @@ Implemented using Coordinator Layout which was introduced in the recent Designs 
 
 Uses ViewPager with a Scrollable Card View for food items. And the CubeTransformer to have a cube like effect for the list.
 
-![]({{site.baseurl}}//image7.png)
