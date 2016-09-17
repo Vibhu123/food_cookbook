@@ -1,4 +1,4 @@
-# food_cookbook
+# Sample Android Views Using Coordinator Layout
 A page that combines some fancy views of android.
 
 A series of tabs with a fancy transformation view. The same applied to the listview having multiple items
