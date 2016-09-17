@@ -16,7 +16,4 @@ Uses ViewPager with a Scrollable Card View for food items. And the CubeTransform
 ![Alt text](/app/src/main/res/drawable/image1.png?raw=true "Optional Title")
 
 
-![Alt text](/app/src/main/res/drawable/image2.png?raw=true "Optional Title")
-
-
-![Alt text](/app/src/main/res/drawable/image3.png?raw=true "Optional Title")
+![Alt text](/app/src/main/res/drawable/image5.png?raw=true "Optional Title")
